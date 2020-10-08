@@ -1,1 +1,1 @@
-Responsive Portfolio with Bootstrap
+This is my responsive portfolio with Bootstrap elements.
